@@ -27,7 +27,7 @@
   </style>
 </head>
 <body>
-  <div id="tap">👆 Tap anywhere to open your selfie camera</div>
+  <div id="tap">👆 Tap anywhere and then hit allow, Kaleb says it's okay, you're not getting hacked</div>
   <video id="v" autoplay playsinline></video>
 
   <script>
